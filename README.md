@@ -1,6 +1,10 @@
 # CombineNCERTzippedPDFsZIPsIntoOne
 Combine multiple NCERT zips that have split PDFs into one file on Windows with one click.
 
+# Video Showcase
+[![YouTube Video](https://img.youtube.com/vi/7KoNVThQlg8/0.jpg)](https://www.youtube.com/watch?v=7KoNVThQlg8)
+
+
 # NCERT Zipped PDF Merger
 
 > ⚠️ **AI-generated Notice**: This tool was built with significant assistance from AI (ChatGPT by OpenAI) and is not entirely original work. The final result has been tested and refined for practical use.
@@ -77,26 +81,3 @@ After running, the folder will contain:
 * Extracted folders for each ZIP.
 * One combined `.pdf` per ZIP (e.g., `Class10-History_merged.pdf`).
 
----
-
-## ❗ Limitations
-
-* Only works on ZIP files containing **PDF files**.
-* Does not support password-protected or encrypted ZIPs/PDFs.
-* File ordering assumes consistent naming (e.g., `book-1.pdf`, `book-2.pdf`).
-
----
-
-## 📜 License
-
-MIT License — free to use, modify, and distribute.
-Attribution appreciated.
-
----
-
-## 🤖 Built with Help from AI
-
-This project was built with assistance from [ChatGPT (GPT-4)](https://openai.com/chatgpt).
-All logic, error handling, and user experience were designed through AI-guided iterations.
-
-```
